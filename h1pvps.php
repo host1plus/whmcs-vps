@@ -20,7 +20,7 @@ use \Host1Plus\Exception\BadRequest;
 function h1pvps_MetaData()
 {
     return [
-        'DisplayName'    => 'Host1Plus VPS Reseller Module',
+        'DisplayName'    => 'Host1Plus VPS Partner Module',
         'APIVersion'     => '1.1',
         'RequiresServer' => true,
     ];
